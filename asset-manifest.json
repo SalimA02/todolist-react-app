@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SalimA02.github.io/todolist-react-app/static/css/main.2aa96ae7.css",
+    "main.js": "/SalimA02.github.io/todolist-react-app/static/js/main.6ac63586.js",
+    "static/js/453.5a6f9dd1.chunk.js": "/SalimA02.github.io/todolist-react-app/static/js/453.5a6f9dd1.chunk.js",
+    "index.html": "/SalimA02.github.io/todolist-react-app/index.html",
+    "main.2aa96ae7.css.map": "/SalimA02.github.io/todolist-react-app/static/css/main.2aa96ae7.css.map",
+    "main.6ac63586.js.map": "/SalimA02.github.io/todolist-react-app/static/js/main.6ac63586.js.map",
+    "453.5a6f9dd1.chunk.js.map": "/SalimA02.github.io/todolist-react-app/static/js/453.5a6f9dd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aa96ae7.css",
+    "static/js/main.6ac63586.js"
+  ]
+}
